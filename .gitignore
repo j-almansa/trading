@@ -1,0 +1,8 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IEX Cloud API
+.iexcloud
+
+# Misc files and directories
+auxfragments
